@@ -1,8 +1,0 @@
-setup.py
-smallapp/__init__.py
-smallapp/api.py
-smallapp.egg-info/PKG-INFO
-smallapp.egg-info/SOURCES.txt
-smallapp.egg-info/dependency_links.txt
-smallapp.egg-info/requires.txt
-smallapp.egg-info/top_level.txt
