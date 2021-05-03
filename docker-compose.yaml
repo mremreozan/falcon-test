@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  api:
+    build:
+      context: .
+    image: smallapp:0.0.1  # Feel free to update version tag
+    ports:
+      - 8901:5000
+    environment:
+      PYTHONUNBUFFERED: 1 # Force print flushes
